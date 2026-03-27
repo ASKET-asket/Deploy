@@ -1,10 +1,22 @@
-# Deploy
+# 🚗 Car Parts Request Platform https://github.com/oNIKoSAVo/Deploy
 
-Для создания проекта на вашем собственном ПК, необходимо выполнить следующую инструкцию:
+Web application for searching and requesting car parts from suppliers.
 
-1. Создайте новую папку с произвольным названием.
-2. Откройте созданную папку в вашем редакторе кода.
-3. Выбирите существующий репозиторий с последующим созданием его клона с помощью команды (без кавычек): 'git clone https://github.com/ASKET-asket/Deploy.git'.
-4. Зайдите в главную папку с помощью команды (без кавычек): 'cd Deploy'.
-5. Добавьте зависимости с помощью команды (без кавычек): 'npm instal'.
-6. 3апустите сервер с помощью команды (без кавычек): 'npm run serve'.
+## 📦 Features
+- Search car parts by brand, model, and generation
+- Request parts from multiple suppliers
+- Filter by condition (new / used)
+- User dashboard for managing requests
+
+## 🛠 Tech Stack
+- Vue.js
+- Node.js
+- REST API
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/oNIKoSAVo/Deploy.git
+cd Deploy
+npm install
+npm run serve
