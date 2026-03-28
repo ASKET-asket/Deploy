@@ -17,7 +17,7 @@
           ></v-text-field>
        </div>
 <div model="butt" class="itemright ">
-      <template v-if="width >=  600">
+      <template v-if="width >=  624">
 <v-btn
  class="primary button" 
  outlined
